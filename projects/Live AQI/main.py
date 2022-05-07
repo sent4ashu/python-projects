@@ -13,7 +13,7 @@ app.configure(bg="#F0F0F0")  # Set the background color of the window
 
 # Create labels, entry fields, and a button for user input
 city_label = tk.Label(app, text="City:")
-city_label.pack() 
+city_label.pack()
 city_label.configure(bg="#F0F0F0")  # Set the background color of the label
 city_entry = tk.Entry(app)
 city_entry.pack()
