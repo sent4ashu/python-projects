@@ -19,7 +19,7 @@ city_entry = tk.Entry(app)
 city_entry.pack()
 
 state_label = tk.Label(app, text="State:")
-state_label.pack()
+state_label.pack() 
 state_label.configure(bg="#F0F0F0")  # Set the background color of the label
 state_entry = tk.Entry(app)
 state_entry.pack() 
