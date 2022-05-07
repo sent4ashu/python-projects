@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+.Python
+__pypackages__/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+.pyre/
+
+.pytype/
+
+
+*.db
+.idea/
+
+.DS_Store
